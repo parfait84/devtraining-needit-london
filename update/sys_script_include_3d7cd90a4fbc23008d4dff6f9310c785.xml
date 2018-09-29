@@ -2,12 +2,13 @@
     <sys_script_include action="INSERT_OR_UPDATE">
         <access>package_private</access>
         <active>false</active>
-        <api_name>x_58872_needit.NeedItUtils</api_name>
+        <api_name>x_58872_needit.NeedItUtilsK</api_name>
         <client_callable>false</client_callable>
-        <description>Utils Script Include for the NeedIt application.</description>
-        <name>NeedItUtils</name>
-        <script><![CDATA[var NeedItUtils = Class.create();
-NeedItUtils.prototype = {
+        <description>Utils Script Include for the NeedIt application.&#13;
+</description>
+        <name>NeedItUtilsK</name>
+        <script><![CDATA[var NeedItUtilsK = Class.create();
+NeedItUtilsK.prototype = {
     initialize: function() {
     },
 isDateToday: function(strDate){
@@ -27,19 +28,19 @@ isDateToday: function(strDate){
 			return false;
 		}
 	},
-    type: 'NeedItUtils'
+    type: 'NeedItUtilsK'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-09-28 11:45:36</sys_created_on>
-        <sys_id>f2c7090e4f7c23008d4dff6f9310c72c</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>NeedItUtils</sys_name>
+        <sys_created_on>2018-09-28 13:16:00</sys_created_on>
+        <sys_id>3d7cd90a4fbc23008d4dff6f9310c785</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>NeedItUtilsK</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_script_include_f2c7090e4f7c23008d4dff6f9310c72c</sys_update_name>
+        <sys_update_name>sys_script_include_3d7cd90a4fbc23008d4dff6f9310c785</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-28 13:45:49</sys_updated_on>
+        <sys_updated_on>2018-09-28 13:46:09</sys_updated_on>
     </sys_script_include>
 </record_update>
