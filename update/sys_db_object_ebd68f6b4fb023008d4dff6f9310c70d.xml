@@ -31,6 +31,15 @@
         <sys_update_name>sys_db_object_ebd68f6b4fb023008d4dff6f9310c70d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-10-03 12:56:37</sys_updated_on>
+        <u_age/>
+        <u_date_de_naissance/>
+        <u_m_re/>
+        <u_nationalit/>
+        <u_nom/>
+        <u_p_re/>
+        <u_pr_nom/>
+        <u_test/>
+        <u_titre/>
         <update_access>true</update_access>
         <user_role display_value="x_58872_needit.needit_task_user" name="x_58872_needit.needit_task_user">7f280fa34fb023008d4dff6f9310c75f</user_role>
         <ws_access>true</ws_access>
